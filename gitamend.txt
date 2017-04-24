@@ -1,0 +1,4 @@
+gitamend i will be back!
+
+
+yup this is the ammended git!
